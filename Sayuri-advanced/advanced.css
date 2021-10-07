@@ -1,0 +1,11 @@
+.car {
+    position:absolute;
+    float: left;
+}
+.detail {
+
+    position: relative;
+    
+    top: 0px;
+    left: 0px;
+}
